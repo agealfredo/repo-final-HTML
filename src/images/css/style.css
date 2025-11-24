@@ -1,9 +1,20 @@
 body {
-    background-color: bisque;
+    background-color: gold
+}
+section{
+    background-image: url(./src/images/background-blog);
 }
 .start {
     font-family: Arial, Helvetica, sans-serif;
     color: brown;
+}
+.new {
+     font-family: Arial, Helvetica, sans-serif;
+     color: brown;
+}
+.contact{
+     font-family: Arial, Helvetica, sans-serif;
+     color: brown;
 }
 img {
     width: 200px;
